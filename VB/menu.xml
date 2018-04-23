@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <item text="Desert" description="This is a hot and sandy place" ImageUrl="Images/Desert.jpg" />
+  <item text="Jellyfish" description="This is a dangerous animal" ImageUrl="Images/Jellyfish.jpg" />
+  <item text="Lighthouse" description="This is a beautiful building" ImageUrl="Images/Lighthouse.jpg" />
+</menu>
